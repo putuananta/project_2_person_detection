@@ -30,7 +30,7 @@ Notes:
 ## Dataset
 Dataset [COCO-2017](https://docs.voxel51.com/user_guide/dataset_zoo/datasets.html#dataset-zoo-coco-2017) from FiftyOne used in this project. It was sampled down to **3500** data (**3000** train and **500** test). The information of the dataset can be seen [here](https://cocodataset.org/#home). For this project we use `person` class only in detections.
 
-## Experiment Results (Faster R-CNN GoogLeNet)
+## Experiment Results
 Model Achive mAP 0.756
 
 The experiments on Faster R-CNN using these backbones achive best result compare to other Architecture. Inference time is worse than YOLO (143.43 ms), but better other than FasterRCNN with different Backbone
