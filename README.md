@@ -37,12 +37,20 @@ The experiments on Faster R-CNN using these backbones achive best result compare
 
 Classification Report
 
-![](./assets/precision.png)
+![precision](https://github.com/putuananta/project_2_person_detection/assets/3580660/91b3b3c8-8b2d-4459-9415-9169768cfd2c)
 
 
-**Example predictions Inception v3**
 
-![](./assets/download.png)
+**Example predictions**
+
+![download](https://github.com/putuananta/project_2_person_detection/assets/3580660/d216dcc0-9af5-432f-9198-128f35de8777)
+
+
+
+https://github.com/putuananta/project_2_person_detection/assets/3580660/15318a42-a31b-4fe7-bb76-8e0493f3954f
+
+
+
 
 ## Dependencies
 
