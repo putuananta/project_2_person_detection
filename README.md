@@ -33,7 +33,7 @@ Dataset [COCO-2017](https://docs.voxel51.com/user_guide/dataset_zoo/datasets.htm
 ## Experiment Results (Faster R-CNN GoogLeNet)
 Model Achive mAP 0.756
 
-The experiments on Faster R-CNN using these backbones achive best result compare to other Architecture. But Inference time is worse than YOLO (143.43 ms), but better other than FasterRCNN with different Backbone
+The experiments on Faster R-CNN using these backbones achive best result compare to other Architecture. Inference time is worse than YOLO (143.43 ms), but better other than FasterRCNN with different Backbone
 
 Classification Report
 
