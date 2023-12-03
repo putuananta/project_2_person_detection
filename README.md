@@ -2,12 +2,12 @@
 This is a group project for object detection topic in Bootcamp Indonesia AI Computer Vision Batch 3
 
 ## Our group member:
-1. **Hendra Ronaldi** (me)
+1. Hendra Ronaldi
 2. Fathurrahman Hernanda Khasan
 3. Fitrah Ramadhan Reza
 4. Harrison
 5. Hilmy Rahmadani
-6. I Putu Ananta Yogiswara
+6. **I Putu Ananta Yogiswara** (me)
 7. Satriaji Najha Darmawan
 8. Tri Wahyu Prabowo
 9. Yurixa Sakhinatul Putri
