@@ -25,7 +25,8 @@ For this project we do a group research on 2 main algorithm models (Faster R-CNN
 6. [YOLO v8](./team/Satriaji_PersonDetection_trainingYOLOv8.ipynb) (**Satriaji Najha Darmawan** & **Nadya Novalina**)
 
 Notes: 
-`This repository will be focused on research on Faster R-CNN ResNet model`. For the team presentation result can be seen [here](./team/Project_2_Presentation.pdf) along with the [timeline](./team/Timeline_CVB+D_Project_2.xlsx).
+`This repository will be focused on research on Faster R-CNN ResNet model`. For the team presentation result can be seen [here](https://github.com/putuananta/project_2_person_detection/files/13538916/Project.2.pdf)
+
 
 ## Dataset
 Dataset [COCO-2017](https://docs.voxel51.com/user_guide/dataset_zoo/datasets.html#dataset-zoo-coco-2017) from FiftyOne used in this project. It was sampled down to **3500** data (**3000** train and **500** test). The information of the dataset can be seen [here](https://cocodataset.org/#home). For this project we use `person` class only in detections.
